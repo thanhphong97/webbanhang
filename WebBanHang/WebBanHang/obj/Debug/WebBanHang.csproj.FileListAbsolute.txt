@@ -1,0 +1,16 @@
+E:\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\WebBanHang.dll.config
+E:\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\WebBanHang.dll
+E:\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\WebBanHang.pdb
+E:\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csprojResolveAssemblyReference.cache
+E:\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\obj\Debug\WebBanHang.dll
+E:\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\obj\Debug\WebBanHang.pdb
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\WebBanHang.dll.config
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\WebBanHang.dll
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\WebBanHang.pdb
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\obj\Debug\WebBanHang.dll
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\obj\Debug\WebBanHang.pdb
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\obj\Debug\WebBanHang.csprojResolveAssemblyReference.cache
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\CKEditor.NET.dll
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\CKEditor.NET.pdb
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\obj\Debug\WebBanHang.dll.licenses
+E:\GitHub_ChiaSe_Project\web-bang-hang-aspx\GiaoDienBanHang_ASPX\WebBanHang\WebBanHang\bin\CollectionPager.dll
